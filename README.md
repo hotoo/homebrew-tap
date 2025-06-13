@@ -2,7 +2,9 @@
 
 Release scripts to [Homebrew](https://brew.sh/)
 
-Example to install [rm-trash](https://github.com/hotoo/rm-trash)
+----
+
+Example to install [rm-trash](https://github.com/hotoo/rm-trash) :
 
 ```bash
 brew tap hotoo/tap
