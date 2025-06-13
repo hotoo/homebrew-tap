@@ -1,2 +1,8 @@
 # homebrew-tap
-release scripts to Homebrew
+
+Release scripts to [Homebrew](https://brew.sh/)
+
+```shell
+brew tap hotoo/tap
+brew install rm-trash
+```
