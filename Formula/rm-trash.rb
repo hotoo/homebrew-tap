@@ -1,8 +1,8 @@
 class RmTrash < Formula
   desc "Shell script to move files to trash instead of deleting"
   homepage "https://github.com/hotoo/rm-trash"
-  url "https://github.com/hotoo/rm-trash/archive/refs/tags/1.2.2.tar.gz"
-  sha256 "8f3f363266e85f8f3672490a1c470bd96942d3984d589c68cd6a38ce55218ebc"
+  url "https://github.com/hotoo/rm-trash/releases/download/1.2.3/rm-trash-1.2.3.tar.gz"
+  sha256 "4c5eb8f4300e6bea357908896a45fcd17d5541e237d28360077c60b6c6a5819c"
   license "MIT"
 
   depends_on "bash" # 如果脚本依赖 bash
